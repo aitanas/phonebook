@@ -1,0 +1,5 @@
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.csproj.AssemblyReference.cache
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.AssemblyInfo.cs
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.csproj.CoreCompileInputs.cache
