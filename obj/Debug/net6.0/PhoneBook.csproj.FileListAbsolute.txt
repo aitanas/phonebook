@@ -3,3 +3,13 @@
 /Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.AssemblyInfoInputs.cache
 /Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.AssemblyInfo.cs
 /Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/aitana/Documents/Epicodus/Projects/phonebook/bin/Debug/net6.0/PhoneBook
+/Users/aitana/Documents/Epicodus/Projects/phonebook/bin/Debug/net6.0/PhoneBook.deps.json
+/Users/aitana/Documents/Epicodus/Projects/phonebook/bin/Debug/net6.0/PhoneBook.runtimeconfig.json
+/Users/aitana/Documents/Epicodus/Projects/phonebook/bin/Debug/net6.0/PhoneBook.dll
+/Users/aitana/Documents/Epicodus/Projects/phonebook/bin/Debug/net6.0/PhoneBook.pdb
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.dll
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/refint/PhoneBook.dll
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.pdb
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/PhoneBook.genruntimeconfig.cache
+/Users/aitana/Documents/Epicodus/Projects/phonebook/obj/Debug/net6.0/ref/PhoneBook.dll

@@ -18,7 +18,7 @@ class PhoneBook
     {
       Console.WriteLine("Would you like to look up a number in your phone book? ['Y' for yes, 'Enter' for no");
       string lookUpAnswer = Console.ReadLine();
-      if (lookUpAnswer = "Y" || lookUpAnswer = "y")
+      if (lookUpAnswer == "Y" || lookUpAnswer == "y")
       {
         LookUpContact();
       }
